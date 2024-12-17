@@ -42,6 +42,7 @@ export const TicTacToe =
             this.isGameEnd ||
             !this.isBlockEmpty(event.target)
         )
+
         {
           return
         }
