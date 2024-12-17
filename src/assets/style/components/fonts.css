@@ -1,5 +1,6 @@
 /* Inter */
-@font-face {
+@font-face
+{
     font-family: "Inter";
     src: local('Inter Bold'),
          url("/src/assets/fonts/Inter/Inter-Bold.ttf") format("truetype"),
@@ -8,7 +9,8 @@
     font-weight: 700;
 }
 
-@font-face {
+@font-face
+{
     font-family: "Inter";
     src: local('Inter Bold Italic'),
          url("/src/assets/fonts/Inter/Inter-BoldItalic.ttf") format("truetype"),
@@ -17,7 +19,8 @@
     font-weight: 700;
 }
 
-@font-face {
+@font-face
+{
     font-family: "Inter";
     src: local('Inter Medium'),
          url("/src/assets/fonts/Inter/Inter-Medium.ttf") format("truetype"),
@@ -26,7 +29,8 @@
     font-weight: 500;
 }
 
-@font-face {
+@font-face
+{
     font-family: "Inter";
     src: local('Inter Medium Italic'),
          url("/src/assets/fonts/Inter/Inter-MediumItalic.ttf") format("truetype"),
@@ -35,7 +39,8 @@
     font-weight: 500;
 }
 
-@font-face {
+@font-face
+{
     font-family: "Inter";
     src: local('Inter Regular'),
          url("/src/assets/fonts/Inter/Inter-Regular.ttf") format("truetype"),
@@ -44,7 +49,8 @@
     font-weight: 400;
 }
 
-@font-face {
+@font-face
+{
     font-family: "Inter";
     src: local('Inter Regular Italic'),
          url("/src/assets/fonts/Inter/Inter-RegularItalic.ttf") format("truetype"),
@@ -53,8 +59,8 @@
     font-weight: 400;
 }
 
- /* SF Pro Display */
-@font-face {
+@font-face
+{
     font-family: "SF Pro Display";
     src: local('SF Pro Display Semibold'),
          url("/src/assets/fonts/SFProDisplay/SF-Pro-Display-Semibold.ttf") format("truetype"),
@@ -63,7 +69,8 @@
     font-weight: 600;
 }
 
-@font-face {
+@font-face
+{
     font-family: "SF Pro Display";
     src: local('SF Pro Display Semibold Italic'),
          url("/src/assets/fonts/SFProDisplay/SF-Pro-Display-SemiboldItalic.ttf") format("truetype"),
@@ -72,7 +79,8 @@
     font-weight: 600;
 }
 
-@font-face {
+@font-face
+{
     font-family: "SF Pro Display";
     src: local('SF Pro Display Regular'),
          url("/src/assets/fonts/SFProDisplay/SF-Pro-Display-Regular.ttf") format("truetype"),
@@ -81,7 +89,8 @@
     font-weight: 400;
 }
 
-@font-face {
+@font-face
+{
     font-family: "SF Pro Display";
     src: local('SF Pro Display Regular Italic'),
          url("/src/assets/fonts/SFProDisplay/SF-Pro-Display-RegularItalic.ttf") format("truetype"),
@@ -90,8 +99,9 @@
     font-weight: 400;
 }
 
- /* SF Pro Text */
-@font-face {
+
+@font-face
+{
     font-family: "SF Pro Text";
     src: local('SF Pro Text Semibold'),
          url("/src/assets/fonts/SFProText/SFProText-Semibold.ttf") format("truetype"),
@@ -100,7 +110,8 @@
     font-weight: 600;
 }
 
-@font-face {
+@font-face
+{
     font-family: "SF Pro Text";
     src: local('SF Pro Text Semibold Italic'),
          url("/src/assets/fonts/SFProText/SFProText-SemiboldItalic.ttf") format("truetype"),
@@ -109,7 +120,8 @@
     font-weight: 600;
 }
 
-@font-face {
+@font-face
+{
     font-family: "SF Pro Text";
     src: local('SF Pro Text Medium'),
          url("/src/assets/fonts/SFProText/SFProText-Medium.ttf") format("truetype"),
@@ -118,7 +130,8 @@
     font-weight: 500;
 }
 
-@font-face {
+@font-face
+{
     font-family: "SF Pro Text";
     src: local('SF Pro Text Medium Italic'),
          url("/src/assets/fonts/SFProText/SFProText-MediumItalic.ttf") format("truetype"),
@@ -127,7 +140,8 @@
     font-weight: 500;
 }
 
-@font-face {
+@font-face
+{
     font-family: "SF Pro Text";
     src: local('SF Pro Text Regular'),
          url("/src/assets/fonts/SFProText/SFProText-Regular.ttf") format("truetype"),
@@ -136,7 +150,8 @@
     font-weight: 400;
 }
 
-@font-face {
+@font-face
+{
     font-family: "SF Pro Text";
     src: local('SF Pro Text Regular Italic'),
          url("/src/assets/fonts/SFProText/SFProText-RegularItalic.ttf") format("truetype"),
