@@ -21,7 +21,6 @@
         width: 59px;
         height: 40px;
         display: none;
-
         svg
         {
             width: 100%;
@@ -40,14 +39,14 @@
             overflow: auto;
             display: none;
         }
-    
+
         &-wrapper
         {
             display: grid;
             gap: 65px;
             padding: 100px 40px;
         }
-    
+
         &-close-wrapper
         {
             display: flex;
@@ -115,7 +114,6 @@
             flex-wrap: wrap;
             row-gap: 22px;
             justify-content: center;
-    
             &-content a
             {
                 font-family: var(--font-family_4);
@@ -133,7 +131,6 @@
             display: flex;
             gap: 8px;
             align-items: center;
-    
             svg
             {
                 width: 24px;
@@ -219,7 +216,6 @@
         display: flex;
         gap: 8px;
         align-items: center;
-
         svg
         {
             width: 24px;
@@ -232,7 +228,6 @@
     {
         display: flex;
         gap: 16px;
-
         a
         {
             color: var(--color_3);
@@ -273,7 +268,6 @@
 	@media screen and (max-width: 1105px)
     {
 		padding: 16px 17px;
-
 		&__content
         {
 			gap: 10px;
